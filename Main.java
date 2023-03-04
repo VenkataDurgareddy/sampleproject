@@ -3,8 +3,5 @@ public class Main {
     {
         System.out.println("Hello World");
     }
-    public static int add(int a,int b)
-    {
-        return a+b;
-    }
+    
 }
